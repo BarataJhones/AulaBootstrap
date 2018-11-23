@@ -1,0 +1,49 @@
+ /* global style*/
+
+body{
+
+}
+    #geral{
+        position: relative;
+        }
+
+        #fundo {
+            position: relative;
+            padding: 500px;
+            background: url(L4DgiGP.jpg);
+            background-repeat: no-repeat;
+            background-size: 1920px 1080px;
+        }
+        #logo{
+            position: relative;
+            top: -850px;
+            right: -450px;
+        }
+        #text_aba{
+            position: relative;
+            top:-1200px;
+            right: -60px;
+            font-size: 40px; 
+            font: chinese rocks;
+            color: white;
+        }
+
+        #text_videos{
+            position: relative;
+            top:-1272px;
+            right: -300px;
+        }
+       
+        
+        #descricao{
+            position: relative;
+            text-align: center;
+            top:-1000px;
+            font-size: 20px; 
+            font-family: "chinese rocks";
+            
+            
+            color: white;
+        }
+
+           
